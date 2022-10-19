@@ -8,7 +8,7 @@ body {
   padding:0;
   text-align: center;
   font-family: 'Merriweather', serif;
-  display: inline-block;
+  display: block;
   background-color: #fffdf4;
 }
 
@@ -77,7 +77,6 @@ a:hover {
   width: 200px;
 
 }
-
 
 .milkybot {
   text-align: left;
